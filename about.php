@@ -1,0 +1,8 @@
+<?=template_header('Message')?>
+<div class="products content-wrapper">
+    <h1>Message from The CEO</h1>
+    <h2 align="center">“Always one step ahead of the rest”</h2><br><br>
+    <img src="imgs/ceo.jpg" alt="Shinji Hattori" width="546" height="410" class="center"><p><br><br>This was the vision of, Seiko’s founder, Kintaro Hattori, and it has inspired our company through over a century of watchmaking. An unflagging quest to increase both the precision, utility and beauty of our watches has resulted in many world-firsts. In 1969 we revolutionized the watchmaking industry with the Seiko Quartz Astron, the world’s first quartz watch. And in 2012, when we launched the Seiko Astron, the world’s first GPS solar watch, it was immediately recognized as the new global standard by markets worldwide.<br><br><br>As we look forward to the next decade, our commitment to our founder’s vision will remain undiminished, but we aim to add a new, extra dimension to the watches we offer. As well as innovative technology and a finely honed approach to design, we aim to create watches that have a strong emotional appeal and that will enrich the lives of our customers. Time is to be enjoyed and our aim is to touch people’s hearts worldwide, adding a touch of fun and excitement to their lives. These ideas come together in a new expression that will guide our future. “Moving Ahead. Touching Hearts.”<br><br><br><br><br>Shinji Hattori Chairman & CEO</p>
+</div>
+
+<?=template_footer()?>
